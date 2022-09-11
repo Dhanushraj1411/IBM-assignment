@@ -1,0 +1,60 @@
+body{
+    background-color:DDE0E2;  
+    flex-wrap: wrap;  
+}
+.header{
+    margin-top: 50px;
+    margin-left: 120px;
+    display: flex;
+    margin-right: 120px;
+    align-content:flex-end;
+    flex-wrap: wrap;   
+}
+.logo{
+    margin-top: -40px;
+    padding-left: 1100px; 
+    flex-wrap: wrap;  
+}
+.twitter_icon,.facebok_icon,.Instagram_icon{
+    height: 20px;
+    width: 20px;     
+}
+.github_icon{
+    height: 20px;
+    width: 20px;
+    padding-left: 2px;   
+}
+.Top_section{
+    background-color: 3F9AF4;
+    margin-left: 120px;
+    margin-right: 135px;
+    margin-top: 20px;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px grey;   
+}
+.inside_section{
+    text-align: center;
+    padding-top: 10px;
+}
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.details{
+    font-size: x-small;
+}
+.inside_section.botton{
+    border-radius: 75px;
+    border-color: blue;
+}
+.profile{
+    padding-right: 1000px;
+    margin-left: 150px;
+    object-position: 15% 100%;
+
+}
+.profile_pic{
+    height: 150px;
+    width: 150px;
+    border: 5px solid white;
+}
